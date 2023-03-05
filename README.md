@@ -46,6 +46,6 @@ None
 - AI Detection in Cybersecurity
 - C2's
 
-<!-- ✅  **GitHub Extra Pins**
+✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cryxnet&repo=cryxnet)]
