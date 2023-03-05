@@ -1,9 +1,3 @@
-[![Github](https://img.shields.io/github/followers/CRYXNET?label=Follow%20Me&style=social)](https://github.com/cryxnet)
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ruben%20M-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ruben-manser/)
-[![Mail](https://img.shields.io/badge/Proton-cryxnet@proton.me-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:cryxnet@proton.me)
-<br>
-
 <h2 align='center'><samp><strong>Hi there 👋, I am CRYXNET</strong></samp></h2>
 <h3 align='center'><strong><a href="https://cryxnet.com" target="_blank">🌐 - Portfolio</a></strong></h3>
 <p align='center'>Software Engineer Apprentice | Cybersecurity Researcher | Web3 Developer</p>
