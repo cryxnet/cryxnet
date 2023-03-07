@@ -45,6 +45,7 @@ None
 - Web3 + AI
 - AI Detection in Cybersecurity
 - C2's
+- Web Intelligence
 
 ✅  **GitHub Extra Pins**
 
