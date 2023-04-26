@@ -3,7 +3,6 @@
 <p align='center'>Software Engineer Apprentice | Cybersecurity Researcher | Web3 Developer</p>
 
 <p align='left'>I have always been passionate about offensive security, penetration testing, and red/purple teaming. My primary focus has been on researching 0-Days and creating exploits based on them. My goal is to explore in-depth how these exploits can be used in red teaming to find potential vulnerabilities and uncover new attack vectors. My expertise extends beyond 0-Days, as I also conduct research on C2 and Post-Exploitation techniques.
-Additionally, I am a skilled software engineer with experience building full-stack web applications and backends using TypeScript, Nextjs, and MongoDB. I am also well-versed in developing Smart Contracts, ERC20, ERC721 (and others) in Solidity. As the author of github.com/MienainetFramework, I am constantly exploring new technologies and cutting-edge tools to enhance my skills and knowledge. I am always eager to learn and grow as an individual and professional.
 </p>
 
 💻 **Languages and Tools:** 🛠️<br>
