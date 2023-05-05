@@ -2,7 +2,7 @@
 <h3 align='center'><strong><a href="https://cryxnet.com" target="_blank">🌐 - Portfolio</a></strong></h3>
 <p align='center'>Software Engineer Apprentice | Cybersecurity Researcher | Web3 Developer</p>
 
-<p align='left'>I have always been passionate about offensive security, penetration testing, and red/purple teaming. My primary focus has been on researching 0-Days and creating exploits based on them. My goal is to explore in-depth how these exploits can be used in red teaming to find potential vulnerabilities and uncover new attack vectors. My expertise extends beyond 0-Days, as I also conduct research on C2 and Post-Exploitation techniques.
+<p align='left'>I'm a software engineer apprentice and a cybersecurity researcher with a passion for all things related to red teaming, exploit development, pentesting, digital forensics, incident handling and threat detection. I love to dive into the intricacies of cybersecurity and work on finding new ways to keep systems safe and secure.
 </p>
 
 💻 **Languages and Tools:** 🛠️<br>
