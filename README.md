@@ -33,19 +33,55 @@
 
 `Red Teaming`, `Digital Forensic`, `Penetration Testing`, `Exploit Development`, `Advance Social Engineering`, `Cloud-Computing`, `DevSecOps`, `Incident Response`, `Web3`, `Smart Contracts`, `Smart Wallets`, `ERC721`, `ERC20`, `Fullstack Development` 
 
-🚩 **Highlights:** <br>
-None
-
 
 📚 **Working on:** <br>
 - [MienaiNet](https://github.com/MienainetFramework)
 
-🤓 **Currently interested in:** <br>
-- Web3 + AI
-- AI Detection in Cybersecurity
-- C2's
-- Web Intelligence
-
-✅  **GitHub Extra Pins**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cryxnet&repo=cryxnet)]
+### Projects:
+<details>
+  <summary><b>:boom: Offensive Security Tools</b></summary>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>Project</b></td>
+          <td><b>Short Description</b></td>
+          <td><b>Stars</b></td>
+          <td><b>Forks</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/MienainetFramework/MienaiNet"><b>MienaiNet</b></a></td>
+          <td>The MienaiNet Framework is a fully customizable C2-Framework. It comes with a C2-Controlling Server, Commanding Dashboard and prebuild agents.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/MienainetFramework/MienaiNet?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/MienainetFramework/MienaiNet?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/cryxnet/tetsunet"><b>TetsuNet</b></a></td>
+          <td> Welcome to TetsuNet, a modern and lightweight command and control (C2) framework built on TCP. TetsuNet provides secure, fast, and efficient communication for remote control </td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cryxnet/tetsunet?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cryxnet/tetsunet?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/cryxnet/dorkstorm"><b>DorkStorm</b></a></td>
+          <td>. DorkStorm allows security researchers, penetration testers, and ethical hackers to easily search and discover hidden information on the internet. By leveraging advanced Google search operators, DorkStorm can uncover vulnerabilities and sensitive data that may be exposed online, helping security professionals to identify potential attack vectors and assess the security posture of their targets.</td>     
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cryxnet/dorkstorm?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cryxnet/dorkstorm?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/cryxnet/crawnet"><b>CRAWNET</b></a></td>
+          <td>CRAWNET is a graph-based domain discovery tool by CRYXNET that helps you gather information
+            about domains and potential relationships with other actors.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cryxnet/crawnet?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cryxnet/crawnet?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+                <tr>
+          <td><a href="https://github.com/cryxnet/subvance"><b>Subvance</b></a></td>
+          <td>Subvance is a advance subdomain discovery tool that can actively or passively discover subdomains of a domain.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cryxnet/subvance?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cryxnet/subvance?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+      </tbody>
+    </table>
+ </details>
+   
