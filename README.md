@@ -99,8 +99,7 @@
       <tbody>
         <tr>
           <td><a href="https://github.com/cryxnet/CVE-2022-42889-RCE"><b>CVE-2022-42889-RCE</b></a></td>
-          <td>CRAWNET is a graph-based domain discovery tool by CRYXNET that helps you gather information
-            about domains and potential relationships with other actors.</td>      
+          <td>CVE-2022-42889 is a new critical vulnerability similar to Spring4Shell and Log4Shell. Its a RCE (Remote Code Execution) vulnerability with the severity score of 9.8. This allows hacker to execute arbitary malicious code on the attacked machine. The version 1.5 - 1.9 from Apache Commons Text are affected.</td>      
           <td><img alt="Stars" src="https://img.shields.io/github/stars/cryxnet/CVE-2022-42889-RCE?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/cryxnet/CVE-2022-42889-RCEt?style=flat-square&labelColor=343b41"/></td>
         </tr>
