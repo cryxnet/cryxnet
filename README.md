@@ -84,4 +84,26 @@
       </tbody>
     </table>
  </details>
-   
+ 
+ <details>
+  <summary><b>🚩 CVEs</b></summary>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>Project</b></td>
+          <td><b>Short Description</b></td>
+          <td><b>Stars</b></td>
+          <td><b>Forks</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><a href="https://github.com/cryxnet/CVE-2022-42889-RCE"><b>CVE-2022-42889-RCE</b></a></td>
+          <td>CRAWNET is a graph-based domain discovery tool by CRYXNET that helps you gather information
+            about domains and potential relationships with other actors.</td>      
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/cryxnet/CVE-2022-42889-RCE?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/cryxnet/CVE-2022-42889-RCEt?style=flat-square&labelColor=343b41"/></td>
+        </tr>
+      </tbody>
+    </table>
+ </details>
