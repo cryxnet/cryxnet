@@ -36,6 +36,10 @@
 
 📚 **Working on:** <br>
 - [MienaiNet](https://github.com/MienainetFramework)
+- [TetsuNet](https://github.com/cryxnet/tetsunet)
+- [Subvance](https://github.com/cryxnet/subvance)
+- [CRAWNET](https://github.com/cryxnet/crawnet)
+
 
 ### Projects:
 <details>
