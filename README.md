@@ -30,7 +30,7 @@
 
 🧐 **Knowledge of:**<br>
 
-`Red Teaming`, `Digital Forensic`, `Penetration Testing`, `Exploit Development`, `Advance Social Engineering`, `Cloud-Computing`, `DevSecOps`, `Incident Response`, `Web3`, `Smart Contracts`, `Smart Wallets`, `ERC721`, `ERC20`, `Fullstack Development` 
+`Red Teaming`, `Digital Forensic`, `Penetration Testing`, `Exploit Development`, `Advance Social Engineering`, `Web Development`, `AI/ML`, `Cloud-Computing`, `DevSecOps`, `Incident Response`, `Web3`, `Solidty`, `Fullstack Development` 
 
 
 📚 **Working on:** <br>
