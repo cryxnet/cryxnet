@@ -1,5 +1,4 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am CRYXNET</strong></samp></h2>
-<h3 align='center'><strong><a href="https://cryxnet.com" target="_blank">🌐 - Portfolio</a></strong></h3>
 <p align='center'>Software Engineer Apprentice | Cybersecurity Researcher</p>
 
 <p align='left'>I'm a software engineer apprentice and a cybersecurity researcher with a passion for all things related to red teaming, exploit development, pentesting, digital forensics, incident handling and threat detection. I love to dive into the intricacies of cybersecurity and work on finding new ways to keep systems safe and secure.
