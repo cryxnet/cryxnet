@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there 👋, I am CRYXNET</strong></samp></h2>
+<h2 align='center'><samp><strong>Helle there 👋, I am CRYXNET</strong></samp></h2>
 <p align='center'>Software Engineer Apprentice | Cybersecurity Researcher</p>
 
 <p align='left'>I'm a software engineer apprentice and a cybersecurity researcher with a passion for all things related to red teaming, exploit development, pentesting, digital forensics, incident handling and threat detection.
