@@ -32,14 +32,6 @@
 
 `Red Teaming`, `Digital Forensic`, `Penetration Testing`, `Exploit Development`, `Advance Social Engineering`, `Web Development`, `AI/ML`, `Cloud-Computing`, `DevSecOps`, `Incident Response`, `Web3`, `Solidty`, `Fullstack Development` 
 
-
-📚 **Working on:** <br>
-- [MienaiNet](https://github.com/MienainetFramework)
-- [TetsuNet](https://github.com/cryxnet/tetsunet)
-- [Subvance](https://github.com/cryxnet/subvance)
-- [CRAWNET](https://github.com/cryxnet/crawnet)
-
-
 ### Projects:
 <details>
   <summary><b>:boom: Offensive Security Tools</b></summary>
