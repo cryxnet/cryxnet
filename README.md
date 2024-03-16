@@ -1,7 +1,7 @@
 <h2 align='center'><samp><strong>Helle there 👋, I am CRYXNET</strong></samp></h2>
 <p align='center'>Software Engineer Apprentice | Cybersecurity Researcher</p>
 
-<p align='left'>I'm a software engineer apprentice with a passion for all things related to cybersecurity (red teaming, pentesting and detection), algorithm trading, blockchain technology.
+<p align='left'>I'm a software engineer apprentice with a passion for all things related to cybersecurity (red teaming, pentesting and detection), algorithm trading and blockchain technology.
 </p>
 
 💻 **Languages and Tools:** 🛠️<br>
