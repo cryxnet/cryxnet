@@ -101,6 +101,42 @@
       </tbody>
     </table>
  </details>
+
+ <details>
+  <summary><b>💰 FinTech</b></summary>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>Project</b></td>
+          <td><b>Short Description</b></td>
+          <td><b>Stars</b></td>
+          <td><b>Forks</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+        </tr>
+      </tbody>
+    </table>
+ </details>
+
+  <details>
+  <summary><b>🪢 Web3</b></summary>
+    <table>
+      <thead align="center">
+        <tr border: none;>
+          <td><b>Project</b></td>
+          <td><b>Short Description</b></td>
+          <td><b>Stars</b></td>
+          <td><b>Forks</b></td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+        </tr>
+      </tbody>
+    </table>
+ </details>
  
  
  
